@@ -82,13 +82,6 @@ GPA: 3.0 / 4.0
 - **LinkedIn:** [linkedin.com/in/maher](https://www.linkedin.com/in/ahmed-maher-4678531b9/)  
 - **LeetCode:** [leetcode.com/u/Maheresio](https://leetcode.com/u/Maheresio/)  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheresio&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
-</p>
-
----
 
 _“I don’t just code—I weave solutions, pixel by pixel, with a sprinkle of passion.”_  
 
