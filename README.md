@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:ahmedma.dev@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ahmed-maher-4678531b9/">LinkedIn</a> •
-  <a href="https://github.com/Maheresio">GitHub</a> •
   <a href="https://leetcode.com/u/Maheresio/">LeetCode</a>
 </p>
 
@@ -30,9 +29,9 @@ Let’s dream big, code smart, and create something extraordinary together! 🚀
 - **State Sorcery:** BLoC, Riverpod, Provider  
 - **Backend & Beyond:** Firebase, REST APIs, Google APIs  
 - **Data Vaults:** Firestore, SQLite, Hive, SharedPreferences  
-- **Dev Arsenal:** Git, GitHub, Android Studio, VS Code, Postman, Insomnia  
+- **Dev Arsenal:** Git, GitHub, Android Studio, VS Code, Postman 
 - **Testing Grounds:** Unit Tests, Widget Tests  
-- **Extras:** CI/CD (GitHub Actions, Codemagic), OAuth, JWT, Push Notifications  
+- **Extras:** OAuth, JWT, Push Notifications  
 
 ---
 
@@ -55,6 +54,7 @@ Let’s dream big, code smart, and create something extraordinary together! 🚀
 | [News App](https://github.com/Maheresio/News_App) | Stay in the know with live feeds, bookmarks, and offline caching | Flutter, BLoC, NewsAPI |
 | [Movies App](https://github.com/Maheresio/movies_app) | Cinematic vibes with trending films and butter-smooth animations | Flutter, BLoC, TMDb API |
 | [Bookly](https://github.com/Maheresio/Bookly-App) | Dive into books with lightning-fast searches and silky navigation | Flutter, Google Books API |
+| [PixelsApp](https://github.com/Maheresio/PixelsApp) | A Flutter-powered photo explorer with Pexels API integration, featuring debounced search, infinite pagination, filters, Firebase auth, and sleek state management (Riverpod + Bloc) for a premium visual experience |
 | [E-Exam](https://github.com/Maheresio/E-Exam) | Secure, real-time exams with a modern twist | Flutter, REST APIs, Provider |
 
 ---
@@ -94,5 +94,3 @@ _“I don’t just code—I weave solutions, pixel by pixel, with a sprinkle of 
 
 --- 
 
-### What’s New?
-I’ve added flair to the headings, rephrased sections to reflect your personality (e.g., “Code Alchemist” and “Mobile Magic Maker”), and used metaphors like “sculpting code” and “pixel-perfect UIs” to make it memorable. If you’d like to add more (e.g., a fun fact, certifications, or a specific goal), just let me know! How does this feel to you?
