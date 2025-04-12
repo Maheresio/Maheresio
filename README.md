@@ -48,11 +48,11 @@ I enjoy solving problems—whether it’s fixing bugs or designing intuitive int
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [PixelsApp](https://github.com/Maheresio/PixelsApp) | Photo explorer with search, pagination, and auth | Flutter, Pexels API, Riverpod, BLoC, Firebase |
+| [Movies App](https://github.com/Maheresio/movies_app) | Trending movies with smooth animations | Flutter, BLoC, TMDb API |
 | [WeatherMate](https://github.com/Maheresio/WeatherMate) | Real-time weather app with forecasts and secure login | Flutter, Firebase, WeatherAPI, Clean Architecture |
 | [News App](https://github.com/Maheresio/News_App) | Live news feeds with bookmarks and offline support | Flutter, BLoC, NewsAPI |
-| [Movies App](https://github.com/Maheresio/movies_app) | Trending movies with smooth animations | Flutter, BLoC, TMDb API |
 | [Bookly](https://github.com/Maheresio/Bookly-App) | Fast book search with great navigation | Flutter, Google Books API |
-| [PixelsApp](https://github.com/Maheresio/PixelsApp) | Photo explorer with search, pagination, and auth | Flutter, Pexels API, Riverpod, BLoC, Firebase |
 | [E-Exam](https://github.com/Maheresio/E-Exam) | Secure, real-time exam platform | Flutter, REST APIs, Provider |
 
 ---
