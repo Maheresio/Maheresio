@@ -96,14 +96,6 @@ class AboutMe {
       <br>
       <b>Bookly</b> - Fast book search with smooth navigation
   </tr>
-      </td>
-     <td align="center">
-      <a href="https://github.com/Maheresio/NewsApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=NewsApp&theme=tokyonight" />
-      </a>
-      <br>
-      <b>NewsApp</b> - Read Trending News and see its source.
-
 </table>
 
 ## <div align="center">📊 GitHub Analytics</div>
