@@ -96,7 +96,6 @@ class AboutMe {
       <br>
       <b>Bookly</b> - Fast book search with smooth navigation
   </tr>
-  <tr>
       </td>
      <td align="center">
       <a href="https://github.com/Maheresio/NewsApp">
@@ -104,7 +103,7 @@ class AboutMe {
       </a>
       <br>
       <b>NewsApp</b> - Read Trending News and see its source.
-  </tr>
+
 </table>
 
 ## <div align="center">📊 GitHub Analytics</div>
