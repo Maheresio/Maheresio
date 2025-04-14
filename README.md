@@ -71,14 +71,12 @@ class AboutMe {
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=PixelsApp&theme=tokyonight" />
       </a>
       <br>
-      <b>PixelsApp</b> - Photo explorer with beautiful UI, search functionality, and authentication
     </td>
     <td align="center">
       <a href="https://github.com/Maheresio/WeatherMate">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=WeatherMate&theme=tokyonight" />
       </a>
       <br>
-      <b>WeatherMate</b> - Real-time weather data with forecasts and location tracking
     </td>
   </tr>
   <tr>
@@ -87,14 +85,12 @@ class AboutMe {
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=MoviesApp&theme=tokyonight" />
       </a>
       <br>
-      <b>Movies App</b> - Discover trending movies with smooth animations
     </td>
     <td align="center">
       <a href="https://github.com/Maheresio/Bookly-App">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=BooklyApp&theme=tokyonight" />
       </a>
       <br>
-      <b>Bookly</b> - Fast book search with smooth navigation
   </tr>
 </table>
 
