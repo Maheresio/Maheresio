@@ -132,7 +132,7 @@ class AboutMe {
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-maher-4678531b9/">
-    <img height="32" width="32" src="https://endlessicons.com/wp-content/uploads/2012/10/linkedin-icon-614x460.png" />
+    <img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhUGq4S4nRu2FM_qesz06pFweVZoER165pw&s" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Maheresio/">
