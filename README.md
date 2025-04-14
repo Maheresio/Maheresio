@@ -84,17 +84,24 @@ class AboutMe {
   <tr>
     <td align="center">
       <a href="https://github.com/Maheresio/movies_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=movies_app&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=MoviesApp&theme=tokyonight" />
       </a>
       <br>
       <b>Movies App</b> - Discover trending movies with smooth animations
     </td>
     <td align="center">
       <a href="https://github.com/Maheresio/Bookly-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=Bookly-App&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=BooklyApp&theme=tokyonight" />
       </a>
       <br>
       <b>Bookly</b> - Fast book search with smooth navigation
+    </td>
+     <td align="center">
+      <a href="https://github.com/Maheresio/NewsApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheresio&repo=NewsApp&theme=tokyonight" />
+      </a>
+      <br>
+      <b>NewsApp</b> - Read Trending News and see its source.
     </td>
   </tr>
 </table>
